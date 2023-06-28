@@ -17,9 +17,9 @@ class KAApiClient {
     const JSON_CONTENT_TYPE = 'application/json';
 
     const SJ_BUSINESS_SKU = 'SJ-PLSK-BIZ-1M';
-    const SJ_BUSINESS_SITES_SKU = 'SJ-PLSK-BIZ-SITE-1M';
+    const SJ_BUSINESS_SITES_SKU = 'SJ-PLSK-BIZ-HSITE-1M';
     const SJ_AGENCY_SKU = 'SJ-PLSK-ACY-1M';
-    const SJ_AGENCY_SITES_SKU = 'SJ-PLSK-ACY-SITE-1M';
+    const SJ_AGENCY_SITES_SKU = 'SJ-PLSK-ACY-HSITE-1M';
 
     protected $results = array();
     private $username;
