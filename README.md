@@ -1,4 +1,4 @@
-# Sitejet by Plesk Provisioning Module for WHMCS Version 1.1 #
+# Sitejet by Plesk Provisioning Module for WHMCS Version 1.1 (Sitejet Hosting) #
 
 ## Installation ##
 
